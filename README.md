@@ -1,4 +1,7 @@
-# test coverage for  [assert-plus (v1.0.0)](https://github.com/mcavage/node-assert-plus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-assert-plus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assert-plus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assert-plus.svg)](https://travis-ci.org/npmtest/node-npmtest-assert-plus)
+# npmtest-assert-plus
+
+#### basic test coverage for  [assert-plus (v1.0.0)](https://github.com/mcavage/node-assert-plus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-assert-plus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assert-plus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assert-plus.svg)](https://travis-ci.org/npmtest/node-npmtest-assert-plus)
+
 #### Extra assertions on top of node's assert module
 
 [![NPM](https://nodei.co/npm/assert-plus.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/assert-plus)
